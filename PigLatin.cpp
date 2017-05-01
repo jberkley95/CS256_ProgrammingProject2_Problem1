@@ -1,6 +1,12 @@
-//Created By: John Berkley
-//Class: CS256
-//Date Last Edited: 4/21/2017
+/**
+    CS-256
+    MatrixOperations.cpp
+    Purpose: Performs matrix operations on two 2D Matrices. Operations include addition, subtraction,
+    multiplication, and transpose.
+
+    @author John Berkley
+    @version 1.0 4/22/2017
+*/
 
 #include <iostream>
 #include <sstream>
